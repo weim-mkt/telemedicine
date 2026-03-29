@@ -28,8 +28,6 @@ telemedicine/
 │   ├── settings.json
 │   ├── WORKFLOW_QUICK_REF.md
 │   └── rules/                      # Project-specific rules
-├── claude-code-my-workflow/        # Workflow submodule (DO NOT EDIT)
-│   └── .claude/                    # Template rules, skills, agents, hooks
 ├── overleaf-telemedicine/          # LaTeX manuscript (Overleaf sync)
 │   ├── Main.tex                    # Main manuscript body
 │   ├── Appendices.tex              # Appendices

@@ -1,6 +1,3 @@
 [submodule "overleaf-telemedicine"]
 	path = overleaf-telemedicine
 	url = git@github.com:weim-mkt/overleaf-telemedicine
-[submodule "claude-code-my-workflow"]
-	path = claude-code-my-workflow
-	url = git@github.com:weim-mkt/claude-code-my-workflow.git
